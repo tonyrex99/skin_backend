@@ -1,0 +1,8 @@
+guicorn
+flask
+tensorflow
+numpy
+pillow
+flaswagger
+flask_cors
+sklearn
